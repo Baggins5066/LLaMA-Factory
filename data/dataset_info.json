@@ -1,4 +1,7 @@
 {
+  "my_custom_bot": {
+    "file_name": "my_data.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
